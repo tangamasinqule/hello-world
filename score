@@ -1,0 +1,33 @@
+<Script>
+Function init ()
+{
+Var prompt = require (‘prompt’); prompt.start();
+Console.log(“insert game scores”);
+var score=new array (6);
+For (var=1; i<6;i++)
+{
+Score[i]=stdin;
+}
+ For each (var score in scores)
+{
+If (score.contains(1) score.contains(2)
+{
+switch (new Score().getScore()) {
+    case 0:
+        score = "barcelona";
+        break;
+    case 1:
+        score = "real madrid";
+        break;
+    case 2:
+        score = "juventus";
+        break;
+    case 3:
+        score = "Arsenal";
+        break;
+    
+}
+For each var (var score in scores)
+{
+Console.log(score); }}
+</script>
